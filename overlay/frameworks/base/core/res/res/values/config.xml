@@ -238,4 +238,7 @@
     <!-- Whether the always on display mode is available. -->
     <bool name="config_dozeAlwaysOnDisplayAvailable">false</bool>
 
+    <!-- Full screen aspect ratio -->
+    <bool name="config_haveHigherAspectRatioScreen">true</bool>
+
 </resources>
