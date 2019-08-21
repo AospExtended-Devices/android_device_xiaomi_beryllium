@@ -2,6 +2,7 @@
   {
     "repository": "device_xiaomi_sdm845-common",
     "target_path": "device/xiaomi/sdm845-common"
+    "branch": "9.x-old"
   },
   {
     "remote": "github",
@@ -13,6 +14,6 @@
     "remote": "github",
     "repository":  "theHari08/vendor_xiaomi",
     "target_path": "vendor/xiaomi/",
-    "branch": "9.x"
+    "branch": "9.x-old"
   }
 ]
